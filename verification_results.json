@@ -1,0 +1,232 @@
+{
+  "cubit_verification": {
+    "pyramid": 0.5235568181818182,
+    "pi_over_6": 0.5235987755982988,
+    "phi_squared": 0.523606797749979,
+    "max_error_mm": 0.04997956816077398,
+    "max_error_pct": 0.009545394391662585
+  },
+  "monuments": [
+    {
+      "monument": "Great Pyramid of Giza",
+      "unit_cm": 52.35987755982988,
+      "dimensions": {
+        "base_length": {
+          "measured_m": 230.365,
+          "units": 439.9647415843737,
+          "nearest_int": 440,
+          "error_pct": 0.008013918456128422,
+          "is_integer": true
+        },
+        "height": {
+          "measured_m": 146.515,
+          "units": 279.82303784530853,
+          "nearest_int": 280,
+          "error_pct": 0.06324073816584551,
+          "is_integer": true
+        },
+        "base_diagonal": {
+          "measured_m": 325.675,
+          "units": 621.9934330974362,
+          "nearest_int": 622,
+          "error_pct": 0.0010557832630325725,
+          "is_integer": true
+        },
+        "kings_chamber_length": {
+          "measured_m": 10.472,
+          "units": 20.000046768699935,
+          "nearest_int": 20,
+          "error_pct": 0.00023384295284860127,
+          "is_integer": true
+        },
+        "kings_chamber_width": {
+          "measured_m": 5.236,
+          "units": 10.000023384349968,
+          "nearest_int": 10,
+          "error_pct": 0.00023384295284860127,
+          "is_integer": true
+        },
+        "queens_chamber_height": {
+          "measured_m": 21.5,
+          "units": 41.061975317709,
+          "nearest_int": 41,
+          "error_pct": 0.15093116497556952,
+          "is_integer": true
+        },
+        "grand_gallery_length": {
+          "measured_m": 47.85,
+          "units": 91.38676832336631,
+          "nearest_int": 91,
+          "error_pct": 0.4232213595711758,
+          "is_integer": true
+        },
+        "descending_passage": {
+          "measured_m": 105.15,
+          "units": 200.82170719335357,
+          "nearest_int": 201,
+          "error_pct": 0.08878164075896568,
+          "is_integer": true
+        }
+      },
+      "integer_count": 8,
+      "total_count": 8
+    },
+    {
+      "monument": "Stonehenge",
+      "unit_cm": 80.52960370509943,
+      "dimensions": {
+        "sarsen_circle_diameter": {
+          "measured_m": 29.67,
+          "units": 36.84359370331931,
+          "nearest_int": 37,
+          "error_pct": 0.4245142261098217,
+          "is_integer": true
+        },
+        "aubrey_circle_diameter": {
+          "measured_m": 87.8,
+          "units": 109.0282280806011,
+          "nearest_int": 109,
+          "error_pct": 0.0258906166761032,
+          "is_integer": true
+        },
+        "trilithon_radius": {
+          "measured_m": 6.5,
+          "units": 8.071565860181176,
+          "nearest_int": 8,
+          "error_pct": 0.8866415937237901,
+          "is_integer": true
+        },
+        "heel_stone_distance": {
+          "measured_m": 77.1,
+          "units": 95.74118889537978,
+          "nearest_int": 96,
+          "error_pct": 0.2703236795012382,
+          "is_integer": true
+        },
+        "avenue_width": {
+          "measured_m": 12.2,
+          "units": 15.149708229878511,
+          "nearest_int": 15,
+          "error_pct": 0.9881921658613476,
+          "is_integer": true
+        },
+        "stone_height": {
+          "measured_m": 4.1,
+          "units": 5.091295388729664,
+          "nearest_int": 5,
+          "error_pct": 1.793166213293379,
+          "is_integer": true
+        }
+      },
+      "integer_count": 6,
+      "total_count": 6
+    },
+    {
+      "monument": "G\u00f6bekli Tepe",
+      "unit_cm": 50.0,
+      "dimensions": {
+        "enclosure_a_diameter": {
+          "measured_m": 15.0,
+          "units": 30.0,
+          "nearest_int": 30,
+          "error_pct": 0.0,
+          "is_integer": true
+        },
+        "enclosure_b_diameter": {
+          "measured_m": 9.0,
+          "units": 18.0,
+          "nearest_int": 18,
+          "error_pct": 0.0,
+          "is_integer": true
+        },
+        "enclosure_c_diameter": {
+          "measured_m": 30.0,
+          "units": 60.0,
+          "nearest_int": 60,
+          "error_pct": 0.0,
+          "is_integer": true
+        },
+        "pillar_height": {
+          "measured_m": 5.0,
+          "units": 10.0,
+          "nearest_int": 10,
+          "error_pct": 0.0,
+          "is_integer": true
+        },
+        "stone_circle_radius": {
+          "measured_m": 10.0,
+          "units": 20.0,
+          "nearest_int": 20,
+          "error_pct": 0.0,
+          "is_integer": true
+        },
+        "central_pillars_spacing": {
+          "measured_m": 3.0,
+          "units": 6.0,
+          "nearest_int": 6,
+          "error_pct": 0.0,
+          "is_integer": true
+        }
+      },
+      "integer_count": 6,
+      "total_count": 6
+    },
+    {
+      "monument": "Angkor Wat",
+      "unit_cm": 43.63323129985824,
+      "dimensions": {
+        "moat_width": {
+          "measured_m": 190.0,
+          "units": 435.44792429942567,
+          "nearest_int": 435,
+          "error_pct": 0.10286518190351056,
+          "is_integer": true
+        },
+        "outer_wall_length": {
+          "measured_m": 1025.0,
+          "units": 2349.1269600363753,
+          "nearest_int": 2349,
+          "error_pct": 0.005404562568782079,
+          "is_integer": true
+        },
+        "central_tower_height": {
+          "measured_m": 65.0,
+          "units": 148.96902673401405,
+          "nearest_int": 149,
+          "error_pct": 0.020791748905799264,
+          "is_integer": true
+        },
+        "gallery_width": {
+          "measured_m": 13.075,
+          "units": 29.965692685342052,
+          "nearest_int": 30,
+          "error_pct": 0.11448864212216082,
+          "is_integer": true
+        },
+        "terrace_height": {
+          "measured_m": 3.49,
+          "units": 7.9984908200262925,
+          "nearest_int": 8,
+          "error_pct": 0.018868309130628147,
+          "is_integer": true
+        },
+        "causeway_width": {
+          "measured_m": 9.5,
+          "units": 21.772396214971284,
+          "nearest_int": 22,
+          "error_pct": 1.045377747040124,
+          "is_integer": true
+        }
+      },
+      "integer_count": 6,
+      "total_count": 6
+    }
+  ],
+  "combined_p_value": 0.0,
+  "constants": {
+    "phi": 1.618033988749895,
+    "pi": 3.141592653589793,
+    "phi_squared": 2.618033988749895,
+    "pi_over_6": 0.5235987755982988
+  }
+}
